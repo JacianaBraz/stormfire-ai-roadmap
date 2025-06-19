@@ -2,6 +2,9 @@
 
 ![Stormfire Banner](stormfire_trilha_2025.png)
 
+> 🗣️ *This repository is written in English, but the core visual was designed in Portuguese to reflect the origin and identity of this journey.*
+
+
 This is not just a repository — it's a digital journey.
 It holds my transformation, my learning process, and my voice in the field of Artificial Intelligence.
 
