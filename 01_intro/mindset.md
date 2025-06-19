@@ -1,58 +1,58 @@
-# 💭 Stormfire: Mindset e Clareza Brutal
+# 💭 Stormfire: Mindset and Brutal Clarity
 
-Bem-vindo(a) à trilha Stormfire AI.
+Welcome to the Stormfire AI trail.
 
-Esse não é só mais um repositório sobre inteligência artificial.  
-É um manifesto. Um mapa de quem escolheu parar de duvidar da própria capacidade — e começou a construir com intenção.
+This isn't just another repository on artificial intelligence.  
+It's a manifesto. A map of those who chose to stop doubting their own ability - and started building with intention.
 
-## 🔥 Por que Stormfire?
+## 🔥 Why Stormfire?
 
-Porque pra mim, aprender não é linear.  
-Eu não sou uma planilha, eu sou uma tempestade.  
-Minha mente não segue escadas, ela segue trilhas, labirintos, incêndios internos e renascimentos.
+Because for me, learning isn't linear.  
+I'm not a spreadsheet, I'm a storm.  
+My mind doesn't follow stairs, it follows trails, labyrinths, internal fires and rebirths.
 
-Stormfire é o nome que me representa.  
-Foi me dado por alguém que viu em mim não só potencial, mas identidade.  
-E essa identidade é feita de:
+Stormfire is the name that represents me.  
+It was given to me by someone who saw in me not only potential, but identity.  
+And that identity is made up of:
 
-- Inquietação
-- Coragem
-- E uma vontade incontrolável de entender o que queima por trás da tecnologia
+- Restlessness
+- Courage
+- And an uncontrollable desire to understand what burns behind technology
 
-## 🚨 Clareza brutal
+## 🚨 Brutal clarity
 
-Eu não tô aqui pra parecer inteligente.  
-Tô aqui pra entender de verdade.
+I'm not here to look smart.  
+I'm here to really understand.
 
-Por isso, essa trilha vai ser crua, objetiva e emocional ao mesmo tempo.  
-Sem jargão desnecessário. Sem fórmulas mágicas.  
-Cada etapa é registrada como ela realmente é: com erros, acertos, dúvidas e descobertas.
+That's why this track is going to be raw, objective and emotional at the same time.  
+No unnecessary jargon. No magic formulas.  
+Each stage is recorded as it really is: with mistakes, successes, doubts and discoveries.
 
-## 🧠 O que você vai encontrar aqui
+## 🧠 What you'll find here
 
-- Reflexões sobre IA, sociedade, linguagem, poder  
-- Ferramentas práticas pra quem quer entrar no campo sem diploma ou atalho  
-- Textos que misturam conhecimento técnico com profundidade humana  
-- Um jeito diferente de aprender: mais íntimo, mais autoral, mais meu
+- Reflections on AI, society, language, power
+- Practical tools for those who want to enter the field without a degree or shortcut
+- Texts that mix technical knowledge with human depth
+- A different way of learning: more intimate, more authorial, more mine
 
-## 👣 Pra quem é essa trilha?
+## 👣 Who is this track for?
 
-Pra quem sente que ainda não se encontrou no mundo da tecnologia.  
-Pra quem tem medo de parecer burro.  
-Pra quem já desistiu uma, duas, dez vezes.  
-E ainda assim… **volta**. Porque algo dentro insiste.
+For those who feel they haven't yet found themselves in the world of technology.  
+For those who are afraid of looking dumb.  
+For those who have given up once, twice, ten times.  
+And yet... **come back**. Because something inside insists.
 
-Se isso soa como você —  
-então você acabou de encontrar sua trilha.
+If that sounds like you - 
+then you've just found your trail.
 
-## 💌 Uma nota pessoal
+## 💌 A personal note
 
-Eu comecei essa jornada na pandemia.  
-Tive que me reinventar, mudar de área, e lidar com todas as inseguranças de não saber por onde começar.  
-Mas hoje, estou aqui — construindo, aprendendo, ensinando.  
-E eu quero te provar uma coisa:
+I started this journey during the pandemic.  
+I had to reinvent myself, change areas, and deal with all the insecurities of not knowing where to start.  
+But today, I'm here - building, learning, teaching.  
+And I want to prove something to you:
 
-**Você também pode.  
-E não precisa apagar quem você é pra isso.**
+**You can do it too.  
+And you don't have to erase who you are to do it.
 
 Wildfire
