@@ -6,6 +6,10 @@
 
 This is a curated path for anyone looking to build a career in Artificial Intelligence, starting from foundational concepts to real-world projects and personal branding.
 
+## 🔥 Comece por aqui
+
+→ Leia o [manifesto de mindset](01_intro/mindset.md) da Stormfire e entenda o propósito dessa trilha.
+
 ## Sections
 
 - `01_intro`: Concepts, mindset and mission
