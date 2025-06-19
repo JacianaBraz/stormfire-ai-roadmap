@@ -1,5 +1,7 @@
 # Stormfire AI Roadmap
 
+![Stormfire Trilha 2025](stormfire_trilha_2025.png)
+
 This is a curated path for anyone looking to build a career in Artificial Intelligence, starting from foundational concepts to real-world projects and personal branding.
 
 ## Sections
