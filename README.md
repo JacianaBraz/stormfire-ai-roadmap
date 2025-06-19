@@ -23,8 +23,14 @@ To organize my learning and share it with others who, like me, are building thei
 
 ## Sections
 
+## Sections
+
 - 🔥 [Initial Manifesto](01_intro/mindset.md): Concepts, mindset, and mission
 - 🔧 [Essential Tools](02_tools/tools_overview.md): Git, GitHub, Python, Linux, etc.
+  - [Git & GitHub](02_tools/git_github.md)
+  - [Python](02_tools/python.md)
+  - [Linux](02_tools/linux.md)
+  - [VS Code](02_tools/vscode.md)
 - 🧠 Practical AI Projects
 - 📚 Resources (courses, books, articles)
 - 🧭 Public presentation and portfolio
