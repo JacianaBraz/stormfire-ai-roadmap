@@ -38,6 +38,6 @@ sudo yum install <package-name>
 
 ## 🔍 Final Words
 
-Linux isn’t just an operating system — it’s a mindset.
-The more you explore it, the more control you gain.
-Mistakes in the terminal aren’t failures — they’re how you earn your black belt.
+> Linux isn’t just an operating system — it’s a mindset.
+> The more you explore it, the more control you gain.
+> Mistakes in the terminal aren’t failures — they’re how you earn your black belt.
