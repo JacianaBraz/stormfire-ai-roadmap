@@ -33,7 +33,7 @@ To organize my learning and share it with others who, like me, are building thei
   - [VS Code](02_tools/vscode.md)
 - 🧠 Practical AI Projects
 - 📚 [Resources](04_resources/resources_overview.md) (courses, books, articles)
-   ### 📄 Articles Available
+   #### 📄 Articles Available
 
    - **🧠 Who is in control of the Artificial Intelligence?**  
      ↳ [🇧🇷 Read in Portuguese](https://github.com/JacianaBraz/stormfire-ai-roadmap/blob/main/04_resources/controle.ai/pt.md)  

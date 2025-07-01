@@ -24,21 +24,16 @@ And this warning has been reinforced by former employees of OpenAI itself, who a
 
 Perhaps the most disturbing news comes from within OpenAI itself. A group of former employees has issued a public warning: the organization that promised to put security and public benefit above profit is, they say, **breaking that pact**.
 
-**The allegations include
+**The allegations include**
 - Abandonment of non-profit governance structures
 - Reduced investment in long-term safety
 - Pressure for commercial results and the launch of \“flashy\” products
 - Lack of transparency and protection for whistleblowers
 - Weak internal security barriers - with a real risk of leaking models such as GPT-4
 
-If OpenAI declares the development of an AGI “sufficient”, it can sell or license its technologies to others - breaking the exclusivity agreement with Microsoft. This move intensifies negotiations and raises a new warning: **AGI may not be an open technology. It could be a currency of corporate power.
-
-And this warning has been reinforced by former employees of OpenAI itself, who accuse the organization of betraying its original mission. According to them, the promise of putting security and public benefit above profit is being broken - and AGI may be being developed in an increasingly closed, volatile and financially driven environment.
-
-
 Former security leaders, such as *Jan Leike*, and founders of OpenAI itself, such as *Ilya Sutskever*, have distanced themselves from the company and expressed doubts about Sam Altman's leadership. The lines are clear: **the original mission is being corrupted in the name of profit.**
 
-> Former OpenAI employees are breaking their silence. And their words are not light:**
+> **Former OpenAI employees are breaking their silence. And their words are not light:**
 >
 > 🧠 *"The non-profit structure was the promise of doing the right thing when the stakes were high. Now that they are, that structure is being abandoned.“* - Carroll Wainwright 
 > 🔥 *”I don't think Sam (Altman) is the person who should have his finger on the AGI button."* - Ilya Sutskever, co-founder of OpenAI 
@@ -53,13 +48,12 @@ Among the strongest testimonies are also allegations of abandonment of the non-p
 
 AGI is still a concept under construction. But the conflicts it is generating are real - and deeply human.
 
-**We're talking about
+**We're talking about**
 - Concentration of power  
 - Disputes over intellectual property  
 - Betrayal of founding principles  
 - And decisions made by a few, with an impact on billions
 
-Former security leaders, such as Jan Leike, and founders of OpenAI itself, such as Ilya Sutskever, have distanced themselves from the company and expressed doubts about Sam Altman's leadership. The lines are clear: **the mission
 
 > If the promise of artificial intelligence was to create a better future, the question that needs to be asked now is a different one:
 >
