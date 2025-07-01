@@ -35,8 +35,10 @@ Former security leaders, such as *Jan Leike*, and founders of OpenAI itself, suc
 
 > **Former OpenAI employees are breaking their silence. And their words are not light:**
 >
-> 🧠 *"The non-profit structure was the promise of doing the right thing when the stakes were high. Now that they are, that structure is being abandoned.“* - Carroll Wainwright 
-> 🔥 *”I don't think Sam (Altman) is the person who should have his finger on the AGI button."* - Ilya Sutskever, co-founder of OpenAI 
+> 🧠 *"The non-profit structure was the promise of doing the right thing when the stakes were high. Now that they are, that structure is being abandoned.“* - Carroll Wainwright
+>
+> 🔥 *”I don't think Sam (Altman) is the person who should have his finger on the AGI button."* - Ilya Sutskever, co-founder of OpenAI
+> 
 > 🚨 *Mira Murati*, former CTO, also expressed discomfort with the current leadership, pointing to internal manipulations. *Tasha McCauley, a former board director, said that this behavior should be unacceptable when the security stakes are so high.
 
 Among the strongest testimonies are also allegations of abandonment of the non-profit structure, repression of critical voices and serious internal security failures that could have exposed advanced models such as GPT-4. AGI, in this context, ceases to be a collective achievement and is treated as a strategic advantage in the hands of a few.
