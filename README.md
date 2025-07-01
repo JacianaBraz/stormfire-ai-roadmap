@@ -36,8 +36,8 @@ To organize my learning and share it with others who, like me, are building thei
    ### 📄 Articles Available
 
    - **🧠 Who is in control of the Artificial Intelligence?**  
-     ↳ [🇧🇷 Read in Portuguese](./04_resources/controle.ai/pt.md)  
-     ↳ [🇬🇧 Read in English](./04_resources/controle.ai/en.md)
+     ↳ [🇧🇷 Read in Portuguese](https://github.com/JacianaBraz/stormfire-ai-roadmap/blob/main/04_resources/controle.ai/pt.md)  
+     ↳ [🇬🇧 Read in English](https://github.com/JacianaBraz/stormfire-ai-roadmap/blob/main/04_resources/controle.ai/en.md)
 - 🧭 Public presentation and portfolio
 
 ---
