@@ -32,7 +32,7 @@ To organize my learning and share it with others who, like me, are building thei
   - [Linux](02_tools/linux.md)
   - [VS Code](02_tools/vscode.md)
 - 🧠 Practical AI Projects
-- 📚 Resources (courses, books, articles)
+- 📚 [Resources](04_resources/resources_overview.md) (courses, books, articles)
 - 🧭 Public presentation and portfolio
 
 ---
