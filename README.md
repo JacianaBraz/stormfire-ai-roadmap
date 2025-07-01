@@ -33,6 +33,11 @@ To organize my learning and share it with others who, like me, are building thei
   - [VS Code](02_tools/vscode.md)
 - 🧠 Practical AI Projects
 - 📚 [Resources](04_resources/resources_overview.md) (courses, books, articles)
+   ### 📄 Articles Available
+
+   - **🧠 Who is in control of the Artificial Intelligence?**  
+     ↳ [🇧🇷 Read in Portuguese](./controle.ai/pt.md)  
+     ↳ [🇬🇧 Read in English](./controle.ai/en.md)
 - 🧭 Public presentation and portfolio
 
 ---

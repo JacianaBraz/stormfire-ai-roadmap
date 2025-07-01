@@ -43,20 +43,6 @@ Entre os depoimentos mais fortes, estão também denúncias de abandono da estru
 
 ---
 
-### 🔒 O colapso silencioso da promessa ética
-
-Talvez a notícia mais perturbadora venha de dentro da própria OpenAI. Um grupo de ex-funcionários publicou um alerta público: a organização que prometia colocar a segurança e o benefício público acima do lucro está, segundo eles, **quebrando esse pacto**.
-
-**As denúncias incluem:**
-- Abandono das estruturas de governança sem fins lucrativos  
-- Redução de investimentos em segurança de longo prazo  
-- Pressão por resultados comerciais e lançamento de produtos \"vistosos\"  
-- Falta de transparência e proteção a denunciantes  
-- Fragilidade nas barreiras de segurança interna — com risco real de vazamento de modelos como o GPT-4
-
-Ex-líderes da área de segurança, como *Jan Leike*, e fundadores da própria OpenAI, como *Ilya Sutskever*, se distanciaram da empresa e expressaram dúvidas sobre a liderança de Sam Altman. As falas são claras: **a missão original está sendo corrompida em nome do lucro.**
-
----
 
 ### 🧨 O que está realmente em jogo?
 
