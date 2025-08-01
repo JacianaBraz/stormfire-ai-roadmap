@@ -43,7 +43,7 @@ We believe in turning learning into **legacy**.
 
 Start from what speaks to you:
 
-- Curious about how transformers work? → [`maps/NPL Architecture´](03_practical_AI_Projects\maps\maps_overview.md)
+- Curious about how transformers work? → [`maps/NPL Architecture´](https://github.com/JacianaBraz/stormfire-ai-roadmap/blob/main/03_practical_AI_Projects/maps/maps_overview.md)
 - Want to explore prompt design? → `maps/Prompt Engineering.md` *(coming soon)*  
 - Interested in AI ethics? → Check `articles/` for real-world dilemmas  
 - Want to build a chatbot? → Head to `notebooks/Chatbot Prototype.ipynb` *(soon)*
