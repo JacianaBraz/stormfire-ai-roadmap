@@ -31,7 +31,7 @@ To organize my learning and share it with others who, like me, are building thei
   - [Python](02_tools/python.md)
   - [Linux](02_tools/linux.md)
   - [VS Code](02_tools/vscode.md)
-- 🧠 Practical AI Projects
+- 🧠 [Practical AI Projects](03_practical_AI_Projects/practical_overview.md)
 - 📚 [Resources](04_resources/resources_overview.md) (courses, books, articles)
    #### 📄 Articles Available
 
@@ -45,7 +45,7 @@ To organize my learning and share it with others who, like me, are building thei
         ↳ [🇬🇧 Read in English](04_resources/roubo_cm_software/en.md)
 
 - 🧭 Public presentation and portfolio
-
+  
 ---
 
 > This is not just about learning.
